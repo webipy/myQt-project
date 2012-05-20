@@ -1,0 +1,4 @@
+myQt-project
+============
+
+Qt project
